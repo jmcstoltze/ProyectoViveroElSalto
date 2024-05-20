@@ -1,0 +1,21 @@
+﻿<Window x:Class="ProyectoPlantasGUI.Ventana_Principal"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProyectoPlantasGUI"
+        mc:Ignorable="d"
+        Title="El Salto - Ventana Principal" Height="550" Width="1100" Activated="Window_Activated">
+    <Grid>
+        <DockPanel LastChildFill="False">
+            <Menu IsMainMenu="True" DockPanel.Dock="Top" Height="20" Width="Auto" x:Name="menuPrincipal" Margin="0,0,0,10">
+                <MenuItem Header="Menú de Opciones">
+                    <MenuItem Header="Agregar Nueva Planta" x:Name="optAgregarNuevaPlanta" Click="optAgregarNuevaPlanta_Click"/>
+                    <MenuItem Header="Listar Plantas" x:Name="optListarPlantas" Click="optListarPlantas_Click"/>
+                </MenuItem>
+            </Menu>
+            <DataGrid x:Name="dgListadoPlantas" Width="Auto" Height="Auto" Margin="0,40,0,40" DockPanel.Dock="Top" IsEnabled="False" CanUserAddRows="False" AutoGeneratingColumn="dgListadoPlantas_AutoGeneratingColumn"/>
+        </DockPanel>
+        <Label x:Name="lblBienvenida" Content="" HorizontalAlignment="Left" Margin="50,450,0,0" VerticalAlignment="Top"></Label>
+    </Grid>
+</Window>

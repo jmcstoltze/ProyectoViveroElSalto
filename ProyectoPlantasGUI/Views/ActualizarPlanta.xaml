@@ -1,0 +1,51 @@
+﻿<Window x:Class="ProyectoPlantasGUI.Views.ActualizarPlanta"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProyectoPlantasGUI.Views"
+        mc:Ignorable="d"
+        Title="ActualizarPlanta" Height="550" Width="1100">
+    <Grid>
+        <Label x:Name="lblId" Content="Id Registro" HorizontalAlignment="Left" Margin="60,30,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblNombreComun" Content="Nombre Común" HorizontalAlignment="Left" Margin="60,60,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblNombreCientifico" Content="Nombre Científico" HorizontalAlignment="Left" Margin="60,90,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblTipoPlanta" Content="Tipo de planta" HorizontalAlignment="Left" Margin="60,120,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblDescripcion" Content="Descripción" HorizontalAlignment="Left" Margin="60,150,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblTiempoRiego" Content="Tiempo de riego" HorizontalAlignment="Left" Margin="60,180,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblCantidadAgua" Content="Cantidad de agua" HorizontalAlignment="Left" Margin="60,210,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblEpoca" Content="Ingrese época" HorizontalAlignment="Left" Margin="60,240,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblEsVenenosa" Content="Es Venenosa" HorizontalAlignment="Left" Margin="60,270,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblEsAutoctona" Content="Es Autóctona" HorizontalAlignment="Left" Margin="60,300,0,0" VerticalAlignment="Top"/>
+
+        <TextBox x:Name="txtId" HorizontalAlignment="Left" Margin="230,34,0,0" IsEnabled="False" TextWrapping="Wrap" VerticalAlignment="Top" Width="200"/>
+        <TextBox x:Name="txtNombreComun" HorizontalAlignment="Left" Margin="230,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="400"/>
+        <TextBox x:Name="txtNombreCientifico" HorizontalAlignment="Left" Margin="230,94,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="400"/>
+
+        <ComboBox x:Name="cmbTipoPlanta" HorizontalAlignment="Left" Margin="230,124,0,0" VerticalAlignment="Top" Width="400" SelectedIndex="0">
+            <ComboBoxItem Content="cmbTipoPlanta" IsSelected="True" IsEnabled="False"/>
+            <ComboBoxItem Content="Herbácea"/>
+            <ComboBoxItem Content="Matorral"/>
+            <ComboBoxItem Content="Arbusto"/>
+            <ComboBoxItem Content="Árbol"/>
+        </ComboBox>
+
+        <TextBox x:Name="txtDescripcion" HorizontalAlignment="Left" Margin="230,154,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="400"/>
+        <TextBox x:Name="txtTiempoRiego" HorizontalAlignment="Left" Margin=" 230, 184, 0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="400"  PreviewTextInput="CheckTextInput"/> 
+        <TextBox x:Name="txtCantidadAgua" HorizontalAlignment="Left" Margin=" 230, 214, 0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="400"  PreviewTextInput="CheckTextInput"/>
+
+        <ComboBox x:Name="cmbEpoca" HorizontalAlignment="Left" Margin="230,244,0,0" VerticalAlignment="Top" Width="400">
+            <ComboBoxItem Content="" IsSelected="True" IsEnabled="False"/>
+            <ComboBoxItem Content="Otoño"/>
+            <ComboBoxItem Content="Invierno"/>
+            <ComboBoxItem Content="Primavera"/>
+            <ComboBoxItem Content="Verano"/>
+        </ComboBox>
+
+        <CheckBox x:Name="chkEsVenenosa" Content="Sí" HorizontalAlignment="Left" Margin="230, 276, 0, 0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="chkEsAutoctona" Content="Sí" HorizontalAlignment="Left" Margin="230, 306, 0, 0" VerticalAlignment="Top"/>
+
+        <Button x:Name="btnActualizarPlanta" Content="Actualizar Planta" HorizontalAlignment="Left" Margin="230,350,0,0" Width="120" VerticalAlignment="Top" Click="btnActualizarPlanta_Click"/>
+        
+    </Grid>
+</Window>

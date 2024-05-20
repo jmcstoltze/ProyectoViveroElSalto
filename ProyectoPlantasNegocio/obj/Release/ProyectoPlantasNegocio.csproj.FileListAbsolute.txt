@@ -1,0 +1,15 @@
+C:\Users\jmcon\OneDrive\Documentos\000_IPLACEX _2022-2023\09_PROGRAMACION_COMPONENTES_ESCRITORIO\proyectos\ProyectoPlantas\ProyectoPlantasNegocio\bin\Release\ProyectoPlantasNegocio.dll.config
+C:\Users\jmcon\OneDrive\Documentos\000_IPLACEX _2022-2023\09_PROGRAMACION_COMPONENTES_ESCRITORIO\proyectos\ProyectoPlantas\ProyectoPlantasNegocio\bin\Release\ProyectoPlantasNegocio.dll
+C:\Users\jmcon\OneDrive\Documentos\000_IPLACEX _2022-2023\09_PROGRAMACION_COMPONENTES_ESCRITORIO\proyectos\ProyectoPlantas\ProyectoPlantasNegocio\bin\Release\ProyectoPlantasNegocio.pdb
+C:\Users\jmcon\OneDrive\Documentos\000_IPLACEX _2022-2023\09_PROGRAMACION_COMPONENTES_ESCRITORIO\proyectos\ProyectoPlantas\ProyectoPlantasNegocio\bin\Release\EntityFramework.dll
+C:\Users\jmcon\OneDrive\Documentos\000_IPLACEX _2022-2023\09_PROGRAMACION_COMPONENTES_ESCRITORIO\proyectos\ProyectoPlantas\ProyectoPlantasNegocio\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\jmcon\OneDrive\Documentos\000_IPLACEX _2022-2023\09_PROGRAMACION_COMPONENTES_ESCRITORIO\proyectos\ProyectoPlantas\ProyectoPlantasNegocio\bin\Release\ProyectoPlantasDALC.dll
+C:\Users\jmcon\OneDrive\Documentos\000_IPLACEX _2022-2023\09_PROGRAMACION_COMPONENTES_ESCRITORIO\proyectos\ProyectoPlantas\ProyectoPlantasNegocio\bin\Release\ProyectoPlantasDALC.pdb
+C:\Users\jmcon\OneDrive\Documentos\000_IPLACEX _2022-2023\09_PROGRAMACION_COMPONENTES_ESCRITORIO\proyectos\ProyectoPlantas\ProyectoPlantasNegocio\bin\Release\ProyectoPlantasDALC.dll.config
+C:\Users\jmcon\OneDrive\Documentos\000_IPLACEX _2022-2023\09_PROGRAMACION_COMPONENTES_ESCRITORIO\proyectos\ProyectoPlantas\ProyectoPlantasNegocio\bin\Release\EntityFramework.xml
+C:\Users\jmcon\OneDrive\Documentos\000_IPLACEX _2022-2023\09_PROGRAMACION_COMPONENTES_ESCRITORIO\proyectos\ProyectoPlantas\ProyectoPlantasNegocio\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\jmcon\OneDrive\Documentos\000_IPLACEX _2022-2023\09_PROGRAMACION_COMPONENTES_ESCRITORIO\proyectos\ProyectoPlantas\ProyectoPlantasNegocio\obj\Release\ProyectoPlantasNegocio.csproj.AssemblyReference.cache
+C:\Users\jmcon\OneDrive\Documentos\000_IPLACEX _2022-2023\09_PROGRAMACION_COMPONENTES_ESCRITORIO\proyectos\ProyectoPlantas\ProyectoPlantasNegocio\obj\Release\ProyectoPlantasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\jmcon\OneDrive\Documentos\000_IPLACEX _2022-2023\09_PROGRAMACION_COMPONENTES_ESCRITORIO\proyectos\ProyectoPlantas\ProyectoPlantasNegocio\obj\Release\Proyecto.914B5B8B.Up2Date
+C:\Users\jmcon\OneDrive\Documentos\000_IPLACEX _2022-2023\09_PROGRAMACION_COMPONENTES_ESCRITORIO\proyectos\ProyectoPlantas\ProyectoPlantasNegocio\obj\Release\ProyectoPlantasNegocio.dll
+C:\Users\jmcon\OneDrive\Documentos\000_IPLACEX _2022-2023\09_PROGRAMACION_COMPONENTES_ESCRITORIO\proyectos\ProyectoPlantas\ProyectoPlantasNegocio\obj\Release\ProyectoPlantasNegocio.pdb

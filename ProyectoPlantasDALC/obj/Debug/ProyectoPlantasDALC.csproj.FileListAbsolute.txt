@@ -1,0 +1,12 @@
+C:\Users\jmcon\OneDrive\Documentos\000_IPLACEX _2022-2023\09_PROGRAMACION_COMPONENTES_ESCRITORIO\proyectos\ProyectoPlantas\ProyectoPlantasDALC\bin\Debug\ProyectoPlantasDALC.dll.config
+C:\Users\jmcon\OneDrive\Documentos\000_IPLACEX _2022-2023\09_PROGRAMACION_COMPONENTES_ESCRITORIO\proyectos\ProyectoPlantas\ProyectoPlantasDALC\bin\Debug\ProyectoPlantasDALC.dll
+C:\Users\jmcon\OneDrive\Documentos\000_IPLACEX _2022-2023\09_PROGRAMACION_COMPONENTES_ESCRITORIO\proyectos\ProyectoPlantas\ProyectoPlantasDALC\bin\Debug\ProyectoPlantasDALC.pdb
+C:\Users\jmcon\OneDrive\Documentos\000_IPLACEX _2022-2023\09_PROGRAMACION_COMPONENTES_ESCRITORIO\proyectos\ProyectoPlantas\ProyectoPlantasDALC\bin\Debug\EntityFramework.dll
+C:\Users\jmcon\OneDrive\Documentos\000_IPLACEX _2022-2023\09_PROGRAMACION_COMPONENTES_ESCRITORIO\proyectos\ProyectoPlantas\ProyectoPlantasDALC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jmcon\OneDrive\Documentos\000_IPLACEX _2022-2023\09_PROGRAMACION_COMPONENTES_ESCRITORIO\proyectos\ProyectoPlantas\ProyectoPlantasDALC\bin\Debug\EntityFramework.xml
+C:\Users\jmcon\OneDrive\Documentos\000_IPLACEX _2022-2023\09_PROGRAMACION_COMPONENTES_ESCRITORIO\proyectos\ProyectoPlantas\ProyectoPlantasDALC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jmcon\OneDrive\Documentos\000_IPLACEX _2022-2023\09_PROGRAMACION_COMPONENTES_ESCRITORIO\proyectos\ProyectoPlantas\ProyectoPlantasDALC\obj\Debug\ProyectoPlantasDALC.csproj.AssemblyReference.cache
+C:\Users\jmcon\OneDrive\Documentos\000_IPLACEX _2022-2023\09_PROGRAMACION_COMPONENTES_ESCRITORIO\proyectos\ProyectoPlantas\ProyectoPlantasDALC\obj\Debug\ProyectoPlantasDALC.csproj.CoreCompileInputs.cache
+C:\Users\jmcon\OneDrive\Documentos\000_IPLACEX _2022-2023\09_PROGRAMACION_COMPONENTES_ESCRITORIO\proyectos\ProyectoPlantas\ProyectoPlantasDALC\obj\Debug\Proyecto.4299C4FA.Up2Date
+C:\Users\jmcon\OneDrive\Documentos\000_IPLACEX _2022-2023\09_PROGRAMACION_COMPONENTES_ESCRITORIO\proyectos\ProyectoPlantas\ProyectoPlantasDALC\obj\Debug\ProyectoPlantasDALC.dll
+C:\Users\jmcon\OneDrive\Documentos\000_IPLACEX _2022-2023\09_PROGRAMACION_COMPONENTES_ESCRITORIO\proyectos\ProyectoPlantas\ProyectoPlantasDALC\obj\Debug\ProyectoPlantasDALC.pdb
